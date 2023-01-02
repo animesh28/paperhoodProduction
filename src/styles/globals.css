@@ -12,7 +12,7 @@
 }
 
 .work-carsouel.crv .work-crsol.swiper {
-  overflow: unset;
+  overflow: unset !important;
 }
 
 .skill-progress span {

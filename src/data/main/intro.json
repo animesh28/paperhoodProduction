@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-bell",
+    "title": "Brand Strategy",
+    "details": "We design class websites."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-drop",
+    "title": "Product Research",
+    "details": "We design class websites."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-paint-bucket",
+    "title": "Art Direction",
+    "details": "We design class websites."
+  }
+]

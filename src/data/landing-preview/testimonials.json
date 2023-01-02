@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "rating": 5,
+    "comment": ["Nice Design with Good Quality!", "Thanks for the theme!"],
+    "author": {
+      "image": "landing-preview/img/envato.png",
+      "name": "HarishST"
+    },
+    "reason": "Design Quality"
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "comment": ["Got really great help with some problems i encountered. The reply was a little late but all the help was valuable.", "Thanks again!"],
+    "author": {
+      "image": "landing-preview/img/envato.png",
+      "name": "Alexio454"
+    },
+    "reason": "Customer Support"
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "comment": ["This template has great customization ability and versatile for any insudtry or business. Clean and simple layouts with numerous options to customize to your liking."],
+    "author": {
+      "image": "landing-preview/img/envato.png",
+      "name": "olsonwinthrop"
+    },
+    "reason": "Customizability"
+  },
+  {
+    "id": 4,
+    "rating": 5,
+    "comment": ["beautiful work the price is amazing also a professional website thanks"],
+    "author": {
+      "image": "landing-preview/img/envato.png",
+      "name": "milenios15"
+    },
+    "reason": "Design Quality"
+  },
+  {
+    "id": 5,
+    "rating": 5,
+    "comment": ["Amazing Support after I purchased the template. 5 out of 5 stars for the template & Support."],
+    "author": {
+      "image": "landing-preview/img/envato.png",
+      "name": "naimishmakawana"
+    },
+    "reason": "Customer Suppor"
+  },
+  {
+    "id": 6,
+    "rating": 5,
+    "comment": ["Really good theme free or bugs or errors."],
+    "author": {
+      "image": "landing-preview/img/envato.png",
+      "name": "skapluie"
+    },
+    "reason": "Code Quality"
+  }
+]

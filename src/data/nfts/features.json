@@ -1,0 +1,46 @@
+[
+  {
+    "image": "nft/img/nfts-img/1.jpg",
+    "countdown_date": "December 22, 2022 21:14:01",
+    "author": {
+      "picture": "nft/img/authors/1.jpg",
+      "name": "@ Author"
+    },
+    "title": "Commodo dolor",
+    "date": "October 2021",
+    "price": "75.00"
+  },
+  {
+    "image": "nft/img/nfts-img/2.jpg",
+    "countdown_date": "December 22, 2022 21:14:01",
+    "author": {
+      "picture": "nft/img/authors/1.jpg",
+      "name": "@ Author"
+    },
+    "title": "Aliquam sit amet",
+    "date": "October 2021",
+    "price": "95"
+  },
+  {
+    "image": "nft/img/nfts-img/3.jpg",
+    "countdown_date": "December 22, 2022 21:14:01",
+    "author": {
+      "picture": "nft/img/authors/1.jpg",
+      "name": "@ Author"
+    },
+    "title": "Diam vel neque",
+    "date": "October 2021",
+    "price": "80"
+  },
+  {
+    "image": "nft/img/nfts-img/4.jpg",
+    "countdown_date": "December 22, 2022 21:14:01",
+    "author": {
+      "picture": "nft/img/authors/1.jpg",
+      "name": "@ Author"
+    },
+    "title": "Tincidunt Malesuada",
+    "date": "October 2021",
+    "price": "45"
+  }
+]

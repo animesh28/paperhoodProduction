@@ -1,0 +1,28 @@
+[
+  {
+    "numb": "01",
+    "icon": "pe-7s-key",
+
+    "title": "Secured Payments",
+    "details": "The highest assurance SSL/TLS certificate, which prevents any unauthorized access"
+  },
+
+  {
+    "numb": "02",
+    "icon": "pe-7s-leaf",
+    "title": "Eco-friendly Pages",
+    "details": "We uses Recycled Paper, as it uses Less Energy, and produces lower Carbon emissions"
+  },
+  {
+    "numb": "03",
+    "icon": "pe-7s-gift",
+    "title": "Save with Coupons",
+    "details": "Buy copies of your Favorite Book(s) with Coupon Codes and Save more for next ones."
+  },
+  {
+    "numb": "04",
+    "icon": "pe-7s-rocket",
+    "title": "Express Delivery",
+    "details": "Paperhood can Ship Book(s) within 7 working Days with our nation-wide partnered Logistics network."
+  }
+]

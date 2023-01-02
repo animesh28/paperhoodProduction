@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "link": "/home-main",
+    "image": "landing-preview/img/demos/1.jpg",
+    "type": "Creative",
+    "title": "Main Demo"
+  },
+  {
+    "id": 2,
+    "link": "/home-landing-3",
+    "image": "landing-preview/img/demos/2.jpg",
+    "type": "Creative",
+    "title": "Modern Agency"
+  },
+  {
+    "id": 3,
+    "link": "/home-mobile-app",
+    "image": "landing-preview/img/demos/3.jpg",
+    "type": "Creative",
+    "title": "Mobile App"
+  },
+  {
+    "id": 4,
+    "link": "/home-nft-market",
+    "image": "landing-preview/img/demos/4.jpg",
+    "type": "Shop",
+    "title": "NFT Marketplace"
+  },
+  {
+    "id": 5,
+    "link": "/home-business-1",
+    "image": "landing-preview/img/demos/5.jpg",
+    "type": "Business",
+    "title": "Multipurpose"
+  },
+  {
+    "id": 6,
+    "link": "/home-landing-2",
+    "image": "landing-preview/img/demos/6.jpg",
+    "type": "Business",
+    "title": "Digital Agency"
+  },
+  {
+    "id": 7,
+    "link": "/home-corporate",
+    "image": "landing-preview/img/demos/7.jpg",
+    "type": "Business",
+    "title": "Corporate"
+  },
+  {
+    "id": 8,
+    "link": "/home-architecture",
+    "image": "landing-preview/img/demos/8.jpg",
+    "type": "Creative",
+    "title": "Architecture"
+  },
+  {
+    "id": 9,
+    "link": "/home-freelancer",
+    "image": "landing-preview/img/demos/9.jpg",
+    "type": "Portfolio",
+    "title": "Freelancer"
+  },
+  {
+    "id": 10,
+    "link": "/home-restaurant",
+    "image": "landing-preview/img/demos/10.jpg",
+    "type": "Business",
+    "title": "Restaurant"
+  },
+  {
+    "id": 11,
+    "link": "#0",
+    "image": "landing-preview/img/demos/c.jpg",
+    "type": "Coming",
+    "title": "Coming Soon"
+  },
+  {
+    "id": 12,
+    "link": "#0",
+    "image": "landing-preview/img/demos/c.jpg",
+    "type": "Coming",
+    "title": "Coming Soon"
+  }
+]

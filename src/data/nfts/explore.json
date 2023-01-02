@@ -1,0 +1,392 @@
+{
+  "tabs": [
+    {
+      "id": 1,
+      "title": "Trendings",
+      "icon": "fas fa-fire"
+    },
+    {
+      "id": 2,
+      "title": "Fiction",
+      "icon": "fas fa-hat-wizard"
+    },
+    {
+      "id": 3,
+      "title": "Love",
+      "icon": "fas fa-heart"
+    },
+    {
+      "id": 4,
+      "title": "Mystery",
+      "icon": "fas fa-user-secret"
+    },
+    {
+      "id": 5,
+      "title": "Fantasy",
+      "icon": "fas fa-dice-d20"
+    }
+  ],
+  "contents": [
+    {
+      "id": 1,
+      "show": true,
+      "cards": [
+        {
+          "image": "nft/img/nfts-img/1.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        },
+        {
+          "image": "nft/img/nfts-img/2.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/3.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/4.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/5.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/6.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/7.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/8.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "show": false,
+      "cards": [
+        {
+          "image": "nft/img/nfts-img/1.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        },
+        {
+          "image": "nft/img/nfts-img/3.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/4.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/5.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/7.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/8.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "show": false,
+      "cards": [
+        {
+          "image": "nft/img/nfts-img/1.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        },
+        {
+          "image": "nft/img/nfts-img/2.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/3.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+
+        {
+          "image": "nft/img/nfts-img/5.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/6.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/8.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "show": false,
+      "cards": [
+        {
+          "image": "nft/img/nfts-img/2.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/3.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/4.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/5.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/6.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/7.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/8.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "show": false,
+      "cards": [
+        {
+          "image": "nft/img/nfts-img/1.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        },
+        {
+          "image": "nft/img/nfts-img/2.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Diam vel neque",
+          "date": "October 2021",
+          "price": "80"
+        },
+        {
+          "image": "nft/img/nfts-img/3.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Aliquam sit amet",
+          "date": "October 2021",
+          "price": "95"
+        },
+        {
+          "image": "nft/img/nfts-img/4.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/5.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Commodo dolor",
+          "date": "October 2021",
+          "price": "75.00"
+        },
+        {
+          "image": "nft/img/nfts-img/8.jpg",
+          "author": {
+            "picture": "nft/img/authors/1.jpg",
+            "name": "@ Author"
+          },
+          "title": "Tincidunt Malesuada",
+          "date": "October 2021",
+          "price": "45"
+        }
+      ]
+    }
+  ]
+}

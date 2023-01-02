@@ -1,0 +1,31 @@
+{
+  "years": 25,
+  "text": "One may speculate that over the course of time certain letters were added or deleted at various positions within the text.",
+  "srtext": "One may speculate that over the course of time certain letters were added or deleted at various positions within the text. This might also explain why one can now find slightly different versions",
+  "feats": [
+    {
+      "bg": "img/works/crv/c1.jpg",
+      "numb": "01 .",
+      "title": "Ui / UX Design.",
+      "type": "Web Design"
+    },
+    {
+      "bg": "img/works/crv/c2.jpg",
+      "numb": "02 .",
+      "title": "Web Developments.",
+      "type": "Developments"
+    },
+    {
+      "bg": "img/works/crv/c3.jpg",
+      "numb": "03 .",
+      "title": "Branding Design.",
+      "type": "Branding"
+    },
+    {
+      "bg": "img/works/crv/c4.jpg",
+      "numb": "04 .",
+      "title": "24 / 7 Support.",
+      "type": "Premium Support"
+    }
+  ]
+}

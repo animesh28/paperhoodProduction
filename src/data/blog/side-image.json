@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "img/blog/b/v1.jpg",
+    "tag": "Trending",
+    "author": "Chris Pratt",
+    "author_image": "img/blog/a1.jpg",
+    "date": "14 sep 2021",
+    "title": "ways to quickly increase traffic to your website",
+    "short_desc": "Which don’t look even of available, but the majority have suffered alteration in some form, by injected humour."
+  },
+  {
+    "id": 2,
+    "image": "img/blog/b/v2.jpg",
+    "tag": "Trending",
+    "author": "Chris Pratt",
+    "author_image": "img/blog/a1.jpg",
+    "date": "14 sep 2021",
+    "title": "ways to quickly increase traffic to your website",
+    "short_desc": "Which don’t look even of available, but the majority have suffered alteration in some form, by injected humour."
+  },
+  {
+    "id": 3,
+    "image": "img/blog/b/v3.jpg",
+    "tag": "Trending",
+    "author": "Chris Pratt",
+    "author_image": "img/blog/a1.jpg",
+    "date": "14 sep 2021",
+    "title": "ways to quickly increase traffic to your website",
+    "short_desc": "Which don’t look even of available, but the majority have suffered alteration in some form, by injected humour."
+  },
+  {
+    "id": 4,
+    "image": "img/blog/b/v4.jpg",
+    "tag": "Trending",
+    "author": "Chris Pratt",
+    "author_image": "img/blog/a1.jpg",
+    "date": "14 sep 2021",
+    "title": "ways to quickly increase traffic to your website",
+    "short_desc": "Which don’t look even of available, but the majority have suffered alteration in some form, by injected humour."
+  }
+]

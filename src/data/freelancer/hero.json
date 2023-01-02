@@ -1,0 +1,33 @@
+{
+  "circles": [
+    {
+      "icon": "pe-7s-mouse",
+      "titleTop": "Secure",
+      "titleBottom": "Dashboard"
+    },
+    {
+      "icon": "pe-7s-vector",
+      "titleTop": "Printing &",
+      "titleBottom": "Distribution"
+    },
+    {
+      "icon": "pe-7s-coffee",
+      "titleTop": "100%",
+      "titleBottom": "Royalty"
+    }
+  ],
+  "about": {
+    "quote": "Start your Paperhood Journey",
+    "details": "Either you are Author, Publisher or Seller, List your Book(s) on Paperhood and Start your Journey of Freedom with our Transparent Modules and Hassle-free process. List your Book(s), Sit back & Relax. Let us handle the chaos of Printing, Inventory Management, Distribution etc."
+  },
+  "numbers": [
+    {
+      "title": "successful projects",
+      "value": "100%"
+    },
+    {
+      "title": "completed projects",
+      "value": "720 +"
+    }
+  ]
+}

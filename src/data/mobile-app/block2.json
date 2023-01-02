@@ -1,0 +1,26 @@
+[
+  {
+    "tab": 1,
+    "icon": "pe-7s-graph3",
+    "title": "Reporting & Analysis",
+    "details": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "image": "mobile-app/img/0.png",
+    "closed": false
+  },
+  {
+    "tab": 2,
+    "icon": "pe-7s-mouse",
+    "title": "Powerful Design",
+    "details": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "image": "mobile-app/img/1.png",
+    "closed": true
+  },
+  {
+    "tab": 3,
+    "icon": "pe-7s-lock",
+    "title": "Secure & insured",
+    "details": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "image": "mobile-app/img/0.png",
+    "closed": true
+  }
+]

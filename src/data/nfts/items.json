@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fas fa-wallet",
+    "title": "Set Up Your Wallet",
+    "details": "NFTs are the latest and greatest application of blockchain technology."
+  },
+  {
+    "icon": "fas fa-shapes",
+    "title": "Create Collection",
+    "details": "NFTs are the latest and greatest application of blockchain technology."
+  },
+  {
+    "icon": "fas fa-gem",
+    "title": "Add your NFT's",
+    "details": "NFTs are the latest and greatest application of blockchain technology."
+  },
+  {
+    "icon": "fab fa-shopify",
+    "title": "List them for sale",
+    "details": "NFTs are the latest and greatest application of blockchain technology."
+  }
+]

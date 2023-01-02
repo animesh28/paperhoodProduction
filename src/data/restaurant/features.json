@@ -1,0 +1,17 @@
+[
+  {
+    "image": "restaurant/img/icons/easy-use.png",
+    "title": "Easy to order",
+    "details": "Our clients choose our products."
+  },
+  {
+    "image": "restaurant/img/icons/fast-delivery.png",
+    "title": "Fastest delivery",
+    "details": "Our clients choose our products."
+  },
+  {
+    "image": "restaurant/img/icons/like.png",
+    "title": "Best quality",
+    "details": "Our clients choose our products."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "bg": "img/slider/5.jpg",
+    "title": "We solve iT problems with technology.",
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "btn": {
+      "text": "About Company",
+      "link": "/about-creative"
+    }
+  },
+  {
+    "id": 2,
+    "bg": "img/slider/1.jpg",
+    "title": "Bringing new iT business solutions and ideas.",
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "btn": {
+      "text": "About Company",
+      "link": "/about-creative"
+    }
+  },
+  {
+    "id": 3,
+    "bg": "img/slider/6.jpg",
+    "title": "We help iT companies scale engineering capacity.",
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "btn": {
+      "text": "About Company",
+      "link": "/about-creative"
+    }
+  }
+]

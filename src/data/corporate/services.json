@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "img/icons/serv1.png",
+    "title": "Product Research",
+    "description": "No coding skills required to customize and create unique looks.",
+    "srdescription": "No coding skills required to customize and create unique looks. Install any demo with just a single click"
+  },
+  {
+    "icon": "img/icons/serv2.png",
+    "title": "Design & Development",
+    "description": "No coding skills required to customize and create unique looks.",
+    "srdescription": "No coding skills required to customize and create unique looks. Install any demo with just a single click"
+  },
+  {
+    "icon": "img/icons/serv3.png",
+    "title": "Testing & Support",
+    "description": "No coding skills required to customize and create unique looks.",
+    "srdescription": "No coding skills required to customize and create unique looks. Install any demo with just a single click"
+  }
+]

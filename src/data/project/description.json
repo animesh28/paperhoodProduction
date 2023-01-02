@@ -1,0 +1,20 @@
+{
+  "description": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+  "features": [
+    {
+      "numb": "01",
+      "title": "Project research",
+      "details": "No coding skills required to customize and create unique looks."
+    },
+    {
+      "numb": "02",
+      "title": "Sketches and design",
+      "details": "No coding skills required to customize and create unique looks."
+    },
+    {
+      "numb": "03",
+      "title": "Seleted concept",
+      "details": "No coding skills required to customize and create unique looks."
+    }
+  ]
+}

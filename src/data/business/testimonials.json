@@ -1,0 +1,38 @@
+{
+  "galleryThumbs": [
+    "img/testimonials/t1.jpg",
+    "img/testimonials/t2.jpg",
+    "img/testimonials/t3.jpg",
+    "img/testimonials/t4.jpg"
+  ],
+  "galleryTop": [
+    {
+      "content": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": {
+        "name": "Colin farrell",
+        "position": "Facebook Seo"
+      }
+    },
+    {
+      "content": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": {
+        "name": "Colin farrell",
+        "position": "Facebook Seo"
+      }
+    },
+    {
+      "content": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": {
+        "name": "Colin farrell",
+        "position": "Facebook Seo"
+      }
+    },
+    {
+      "content": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": {
+        "name": "Colin farrell",
+        "position": "Facebook Seo"
+      }
+    }
+  ]
+}

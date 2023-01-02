@@ -1,0 +1,68 @@
+[
+  {
+    "icon": "fas fa-heart",
+    "title": "Love",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/love.jpg"
+  },
+  {
+    "icon": "fab fa-reddit-alien",
+    "title": "Fiction",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/fiction.jpg"
+  },
+  {
+    "icon": "fas fa-user-tie",
+    "title": "Business",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/business.jpg"
+  },
+  {
+    "icon": "fas fa-lightbulb",
+    "title": "Self Help",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/self.jpg",
+    "pos": "center"
+  },
+  {
+    "icon": "fas fa-dice-d20",
+    "title": "Poetry",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/poetry.jpg",
+    "pos": "center"
+  },
+  {
+    "icon": "fas fa-dragon",
+    "title": "Fantasy",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/fantasy.jpg"
+  },
+  {
+    "icon": "fas fa-scroll",
+    "title": "History",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/history.jpg"
+  },
+  {
+    "icon": "fas fa-hand-sparkles",
+    "title": "Philosophy",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/philosophy.jpg",
+    "pos": "center"
+  },
+  {
+    "icon": "fas fa-heartbeat",
+    "title": "Fitness",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/fitness.jpg",
+    "pos": "center"
+  },
+  {
+    "icon": "fas fa-user-edit",
+    "title": "Biography",
+    "description": "Send invoices, collect payment, convert payouts to fiat currency, or keep the cryptocurrency.",
+    "img": "img/category/bio.jpg",
+    "pos": "center",
+    "posy": "top"
+  }
+]

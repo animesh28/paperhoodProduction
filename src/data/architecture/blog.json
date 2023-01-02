@@ -1,0 +1,22 @@
+[
+  {
+    "image": "arch/img/blog/1.jpg",
+    "date": {
+      "day": "24",
+      "monthYear": "Sep 2021"
+    },
+    "title": "Architectural trends that are going to slow down this year.",
+    "tag": "Architecture",
+    "user": "admin"
+  },
+  {
+    "image": "arch/img/blog/2.jpg",
+    "date": {
+      "day": "24",
+      "monthYear": "Sep 2021"
+    },
+    "title": "The art of finding inspiration in the world around you.",
+    "tag": "Architecture",
+    "user": "admin"
+  }
+]

@@ -1,0 +1,375 @@
+
+
+
+/* ====================== [ Start Preloader ] ====================== */
+
+
+
+/* ====================== [ End Preloader ] ====================== */
+
+
+/* ====================== [ Start Text Animation & Images ] ====================== */
+
+.splitting.animated .char {
+	animation: fadeInUp .4s cubic-bezier(.3, 0, .7, 1) both;
+	animation-delay: calc(30ms * var(--char-index));
+}
+
+.splitting .whitespace{
+	width: 5px;
+}
+
+@keyframes fadeInUp {
+	0% {
+		opacity: 0;
+		transform: translateY(20px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+@keyframes fadeInUpSm {
+	0% {
+		opacity: 0;
+		transform: translateY(7px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+.splitting.txt.animated .char {
+	animation: fadeIn .3s cubic-bezier(.3, 0, .7, 1) both;
+	animation-delay: calc(10ms * var(--char-index));
+}
+
+.splitting.txt .whitespace{
+	width: 5px;
+}
+
+@keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+.imago{
+	clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+	transition: all .8s;
+	transition-delay: .3s;
+
+	&.animated{
+		clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+	}	
+}
+
+.sp-hover{
+  
+  &:hover{
+
+    .char{
+      animation: fadeInUpSm .2s cubic-bezier(.3, 0, .7, 1) both;
+	    animation-delay: calc(60ms * var(--char-index));
+    }
+  }
+}
+
+/* ====================== [ End Text Animation & Images ] ====================== */
+
+
+/* ====================== [ Start curve Style ] ====================== */
+
+.curve-cls{
+    position: absolute;
+    width: 110%;
+    left: -5%;
+    height: 300px;
+    pointer-events: none;
+
+    svg{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 300px;
+    }
+
+    &.top{
+        top: -299px;
+    }
+
+    &.bottom{
+        bottom: 0;
+    }
+}
+
+.custom-curve{
+    position: absolute;
+    left: -1%;
+    width: 102%;
+
+    &.flip-x{
+        
+        svg{
+            transform: rotateY(180deg);
+        }
+    }
+
+    &.flip-y{
+        
+        svg{
+            transform: rotateX(180deg);
+        }
+    }
+
+    &.bottom{
+        bottom: -2px;
+    }
+
+    &.top{
+        top: 2px;
+    }
+}
+
+.wave {
+    background: url(../img/waves/wave-gray-light.svg) repeat-x;
+    position: absolute;
+    top: -198px;
+    width: 6400px;
+    height: 198px;
+    animation: wave 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+    transform: translate3d(0, 0, 0);
+    opacity: .42;
+}
+
+.lines-v{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+
+    span{
+        width: 33.333333%;
+        margin-left: 33.333333%;
+        border-right: 1px solid #eee;
+        border-left: 1px solid #eee;
+        height: 100%;
+    }
+}
+
+.curve-shape{
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    left: 0;
+    z-index: 2;
+
+    &.top{
+        top: -1px;
+
+        &.rev{
+            transform: rotate(180deg);
+        }
+    }
+}
+
+.bottom-curvs,
+.top-curvs{
+    position: absolute;
+    left: -5px;
+    right: -5px;
+}
+
+.bottom-curvs{
+    bottom: -30px;
+    transform: rotateX(180deg);
+}
+
+.top-curvs{
+    top: -30px;
+}
+  
+@keyframes wave {
+    0% {
+      margin-left: 0;
+    }
+    100% {
+      margin-left: -1600px;
+    }
+}
+
+@keyframes swell {
+    0%,
+      100% {
+      transform: translate3d(0, -25px, 0);
+    }
+    50% {
+      transform: translate3d(0, 5px, 0);
+    }
+}
+
+/* ====================== [ End curve Style ] ====================== */
+
+
+/* ====================== [ Start animate headline ] ====================== */
+
+.cd-words-wrapper {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+  }
+  
+  .cd-words-wrapper b {
+    display: inline-block;
+    position: absolute;
+    white-space: nowrap;
+    left: 0;
+    top: 0;
+  }
+  
+  .cd-words-wrapper b.is-visible {
+    position: relative;
+  }
+  
+  .no-js .cd-words-wrapper b {
+    opacity: 0;
+  }
+  
+  .no-js .cd-words-wrapper b.is-visible {
+    opacity: 1;
+  }
+  
+  /* xclip */
+  .cd-headline.clip span {
+    display: inline-block;
+  }
+  
+  .cd-headline.clip .cd-words-wrapper {
+    overflow: hidden;
+    vertical-align: top;
+  }
+  
+  .cd-headline.clip b {
+    opacity: 0;
+  }
+  
+  .cd-headline b.is-visible {
+    opacity: 1;
+  }
+
+  
+  /* slide */
+
+  .cd-headline.slide span {
+    display: inline-block;
+  }
+  .cd-headline.slide .cd-words-wrapper {
+    overflow: hidden;
+    vertical-align: top;
+  }
+  .cd-headline.slide b {
+    opacity: 0 !important;
+    top: .2em;
+  }
+  .cd-headline.slide b.is-visible {
+    top: 0;
+    opacity: 1 !important;
+    animation: slide-in 0.6s;
+  }
+  .cd-headline.slide b.is-hidden {
+    animation: slide-out 0.6s;
+  }
+  
+  @keyframes slide-in {
+    0% {
+      opacity: 0;
+      transform: translateY(-100%);
+    }
+    60% {
+      opacity: 1;
+      transform: translateY(20%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes slide-out {
+    0% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    60% {
+      opacity: 0;
+      transform: translateY(120%);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(100%);
+    }
+  }
+
+/* ====================== [ End animate headline ] ====================== */
+
+
+/* ====================== [ Start progress-wrap ] ====================== */
+
+.progress-wrap {
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	height: 44px;
+	width: 44px;
+	cursor: pointer;
+	display: block;
+	border-radius: 50px;
+	z-index: 100;
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(20px);
+  transition: all 400ms linear;
+  mix-blend-mode: difference;
+}
+
+.progress-wrap.active-progress {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0);
+}
+
+.progress-wrap::after {
+	position: absolute;
+	font-family: 'Font Awesome 5 Free';
+	content: '\f077';
+	text-align: center;
+	line-height: 44px;
+	font-size: 13px;
+	font-weight: 900;
+	color: #ccc;
+	left: 0;
+	top: 0;
+	height: 44px;
+	width: 44px;
+	cursor: pointer;
+	display: block;
+	z-index: 1;
+    transition: all 400ms linear;
+}
+
+.progress-wrap svg path { 
+	fill: none; 
+}
+
+.progress-wrap svg.progress-circle path {
+	stroke: #ccc;
+	stroke-width: 4;
+	box-sizing: border-box;
+    transition: all 400ms linear;
+}
+
+/* ====================== [ End progress-wrap ] ====================== */

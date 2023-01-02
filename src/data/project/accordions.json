@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Website & Mobile App Design",
+    "details": "Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.",
+    "closed": true
+  },
+  {
+    "id": 2,
+    "title": "Motion Graphics & Animation",
+    "details": "Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.",
+    "closed": false
+  },
+  {
+    "id": 3,
+    "title": "User Experience",
+    "details": "Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.",
+    "closed": true
+  }
+]

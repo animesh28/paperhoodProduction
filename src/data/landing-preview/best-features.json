@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-bell",
+    "title": "Lifetime Use",
+    "details": "Buy once, and it is yours forever. Perfect deal!"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-hourglass",
+    "title": "Regular Updates",
+    "details": "We commit to keep your site up-to-date. Free for lifetime."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-loop",
+    "title": "Infinitely Flexible",
+    "details": "Manage the html theme and take full control over your site."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-mouse",
+    "title": "Unique Animations",
+    "details": "Smooth animations, cool effects. Attraction guaranteed."
+  },
+  {
+    "id": 5,
+    "icon": "pe-7s-portfolio",
+    "title": "Huge Element Collection",
+    "details": "Huge collection of elements and flexible layouts!"
+  },
+  {
+    "id": 6,
+    "icon": "pe-7s-graph2",
+    "title": "SEO Friendly",
+    "details": "The best SEO practices to achieve higher rankings on Google."
+  }
+]

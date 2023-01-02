@@ -1,0 +1,44 @@
+[
+  {
+    "rating": 5,
+    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
+    "image": "img/testimonials/1.jpg",
+    "author": "Ryan Reynolds",
+    "position": "Customer"
+  },
+  {
+    "rating": 5,
+    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
+    "image": "img/testimonials/2.jpg",
+    "author": "Ryan Reynolds",
+    "position": "Customer"
+  },
+  {
+    "rating": 4.5,
+    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
+    "image": "img/testimonials/3.jpg",
+    "author": "Ryan Reynolds",
+    "position": "Customer"
+  },
+  {
+    "rating": 4.5,
+    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
+    "image": "img/testimonials/2.jpg",
+    "author": "Ryan Reynolds",
+    "position": "Customer"
+  },
+  {
+    "rating": 5,
+    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
+    "image": "img/testimonials/1.jpg",
+    "author": "Ryan Reynolds",
+    "position": "Customer"
+  },
+  {
+    "rating": 4.5,
+    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
+    "image": "img/testimonials/3.jpg",
+    "author": "Ryan Reynolds",
+    "position": "Customer"
+  }
+]

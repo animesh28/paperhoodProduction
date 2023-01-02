@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "pe-7s-safe",
+    "title": "Dashboard",
+    "details": "Track Sales & other features in User Dashboard"
+  },
+  {
+    "icon": "pe-7s-print",
+    "title": "Printing and Distribution",
+    "details": "List your Books and Let us Take Care of Printing and Logistics"
+  },
+  {
+    "icon": "pe-7s-diamond",
+    "title": "100% Royalty",
+    "details": "Earn 100% Royalty within Minimum Printing Cost"
+  }
+]

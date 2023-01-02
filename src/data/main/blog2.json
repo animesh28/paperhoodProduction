@@ -1,0 +1,23 @@
+[
+  {
+    "image": "img/blog/8.jpg",
+    "tag": "Trending",
+    "author": "Mila Kunis",
+    "date": "14 sep 2021",
+    "title": "Discover how Flowbase can help you build better."
+  },
+  {
+    "image": "img/blog/9.jpg",
+    "tag": "Trending",
+    "author": "Mila Kunis",
+    "date": "14 sep 2021",
+    "title": "Customisation means you can totally the design."
+  },
+  {
+    "image": "img/blog/10.jpg",
+    "tag": "Trending",
+    "author": "Mila Kunis",
+    "date": "14 sep 2021",
+    "title": "Analytics to help understand customers."
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "feedback": {
+    "stars": 5,
+    "percentage": 100,
+    "users": [
+      "img/testimonials/c1.jpg",
+      "img/testimonials/c2.jpg",
+      "img/testimonials/c3.jpg"
+    ]
+  },
+  "numbers": [
+    {
+      "value": "255K",
+      "title": "Total Projects",
+      "class": "one"
+    },
+    {
+      "value": "255K",
+      "title": "Total Projects",
+      "class": "two"
+    },
+    {
+      "value": "255K",
+      "title": "Total Projects",
+      "class": "three"
+    }
+  ]
+}

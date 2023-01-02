@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "pe-7s-print",
+    "title": "Digital Printing",
+    "details": "Print-on-Demand Books with our Digital printing services and forget about Inventory Management."
+  },
+  {
+    "icon": "pe-7s-paint-bucket",
+    "title": "Offset Printing",
+    "details": "Print books on long run for Bulk quantity with Offset printing services and Premium Quality printing."
+  },
+  {
+    "icon": "pe-7s-way",
+    "title": "Distribution",
+    "details": "List your Books on Paperhood Marketplace and Earn Maximum Royalties."
+  },
+  {
+    "icon": "pe-7s-safe",
+    "title": "Dashboard",
+    "details": "Dashboards for Publishers to Track Sales. Manage Books to makes it easier to work with Paperhood."
+  }
+]

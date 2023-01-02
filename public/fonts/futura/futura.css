@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Bold font'), local('Futura Bold font'),
+        url('Futura Bold font.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Bold font'), local('Futura Bold font'),
+        url('Futura Bold Italic font.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Book font'), local('Futura Book font'),
+        url('Futura Book font.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Book font'), local('Futura Book font'),
+        url('Futura Book Italic font.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Extra Black font'), local('Futura Extra Black font'),
+        url('Futura Extra Black font.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Heavy font'), local('Futura Heavy font'),
+        url('Futura Heavy font.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Heavy font'), local('Futura Heavy font'),
+        url('Futura Heavy Italic font.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura light bt font'), local('Futura light bt font'),
+        url('futura light bt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Light font'), local('Futura Light font'),
+        url('Futura Light font.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Light font'), local('Futura Light font'),
+        url('Futura Light Italic font.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura medium bt font'), local('Futura medium bt font'),
+        url('futura medium bt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Pro';
+    src: local('Futura Medium font'), local('Futura Medium font'),
+        url('Futura Medium Italic font.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+

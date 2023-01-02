@@ -1,0 +1,89 @@
+
+/* ====================== [ Start progress bar ] ====================== */
+
+.skills-circle {
+
+	.item{
+		display: flex;
+	}
+
+	.skill {
+		position: relative;
+
+		span {
+			width: 100px;
+			height: 100px;
+			line-height: 100px;
+			text-align: center;
+			border-radius: 50%;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translateX(-50px) translateY(-50px);
+			font-size: 20px;
+			font-weight: 300;
+		}
+	}
+
+	.cont{
+		padding-top: 25px;
+		padding-left: 25px;
+
+		span{
+			font-size: 12px;
+			font-weight: 300;
+			opacity: .9;
+			margin-bottom: 10px;
+		}
+
+		h6 {
+			font-size: 15px;
+			font-weight: 500;
+		}
+	}
+}
+
+.skills-box {
+
+	.flex{
+		display: flex;
+
+		h2{
+			white-space: nowrap;
+			margin-right: 50px;
+		}
+	}
+
+	.skill-item {
+		margin-bottom: 70px;
+
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+
+	h6 {
+		font-size: 15px;
+		margin-bottom: 15px;
+	}
+
+	.skill-progress {
+		height: 10px;
+		background-color: rgba(0,0,0,.08);
+		position: relative;
+		border-radius: 5px;
+
+		.progres {
+			position: absolute;
+			height: 100%;
+			width: 0;
+			top: 0;
+			left: 0;
+			background: linear-gradient(120deg, #f76e8f 0%, #df563f 100%);
+			border-radius: 5px;
+			transition: all 1.5s;
+		}
+	}
+}
+
+/* ====================== [ End progress bar ] ====================== */

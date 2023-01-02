@@ -1,0 +1,41 @@
+[
+  {
+    "images": [
+      "nft/img/nfts-img/1.jpg",
+      "nft/img/nfts-img/2.jpg",
+      "nft/img/nfts-img/3.jpg"
+    ],
+    "author": {
+      "image": "nft/img/authors/new.png",
+      "name": "Author"
+    },
+    "title": "Recently Launched",
+    "items": "14"
+  },
+  {
+    "images": [
+      "nft/img/nfts-img/4.jpg",
+      "nft/img/nfts-img/5.jpg",
+      "nft/img/nfts-img/6.jpg"
+    ],
+    "author": {
+      "image": "nft/img/authors/best.png",
+      "name": "Author"
+    },
+    "title": "Best Seller",
+    "items": "50"
+  },
+  {
+    "images": [
+      "nft/img/nfts-img/7.jpg",
+      "nft/img/nfts-img/8.jpg",
+      "nft/img/nfts-img/9.jpg"
+    ],
+    "author": {
+      "image": "nft/img/authors/featured.png",
+      "name": "Author"
+    },
+    "title": "Featured",
+    "items": "22"
+  }
+]

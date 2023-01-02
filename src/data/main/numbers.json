@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Satisfied Clients",
+    "value": "650",
+    "operator": "+"
+  },
+  {
+    "title": "Positive Feedback",
+    "value": "99",
+    "operator": "%"
+  },
+  {
+    "title": "Perfect Prodects",
+    "value": "58"
+  },
+  {
+    "title": "Awards Win",
+    "value": "12"
+  }
+]

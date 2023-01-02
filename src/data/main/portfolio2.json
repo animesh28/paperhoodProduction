@@ -1,0 +1,167 @@
+{
+  "filters": [
+    {
+      "name": "All",
+      "operator": "*"
+    },
+    {
+      "name": "New Launches",
+      "operator": ".new"
+    },
+    {
+      "name": "Featured",
+      "operator": ".featured"
+    },
+
+    {
+      "name": "Best Seller",
+      "operator": ".bestSeller"
+    }
+  ],
+  "images": [
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Commodo dolor",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹95.00",
+      "title": "Convallis furniture",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹90.00",
+      "title": "Tincidunt malesuada",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Morbi tristique",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹45.00 - ₹75.00",
+      "title": "Tincidunt malesuada",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹95.00",
+      "title": "Morbi tristique",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹50.00",
+      "title": "Aliquam sit amet",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Diam vel neque",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Commodo Data",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹95.00",
+      "title": "Convallis Data",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹90.00",
+      "title": "Tincidunt Data",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Morbi Data",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Commodo dolor",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹95.00",
+      "title": "Convallis furniture",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹90.00",
+      "title": "Tincidunt malesuada",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Morbi tristique",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹45.00 - ₹75.00",
+      "title": "Tincidunt malesuada",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹95.00",
+      "title": "Morbi tristique",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹50.00",
+      "title": "Aliquam sit amet",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Diam vel neque",
+      "filter": "bestSeller"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Commodo Data",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹95.00",
+      "title": "Convallis Data",
+      "filter": "new"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹90.00",
+      "title": "Tincidunt Data",
+      "filter": "featured"
+    },
+    {
+      "url": "img/team/250.png",
+      "type": "₹75.00",
+      "title": "Morbi Data",
+      "filter": "new"
+    }
+  ]
+}

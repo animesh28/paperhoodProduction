@@ -1,0 +1,192 @@
+
+
+/* ====================== [ Start Team ] ====================== */
+
+.team-shape{
+
+    .item{
+
+        .img{
+            position: relative;
+            overflow: hidden;
+
+            &:hover{
+
+                .cont{
+                    transform: translateY(0);
+                }
+            }
+
+            .cont{
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                padding: 20px 30px;
+                transform: translateY(140%);
+                transition: all .4s;
+                z-index: 3;
+
+                .shape{
+                    position: absolute;
+                    top: 0;
+                    left: -50px;
+                    right: -50px;
+                    bottom: -50px;
+                    transform: rotate(10deg);
+                    z-index: -1;
+                }
+            }
+        }
+    }
+}
+
+.team{
+
+    &.out{
+
+        .item{
+            padding-right: 60px;
+            position: relative;
+            z-index: 2;
+
+            &:after{
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 40px;
+                bottom: 0;
+                right: 0;
+                background: #fff;
+                background: linear-gradient(to top , #fff, transparent);
+                box-shadow: 0px 25px 30px rgba(0,0,0,.07);
+                z-index: -1;
+            }
+
+            .img{
+                box-shadow: 0px 25px 30px rgba(0,0,0,.07);
+            }
+
+            .cont{
+                padding: 30px 30px 30px 70px;
+            }
+        }
+    }
+
+    .item{
+        position: relative;
+
+        .img{
+            width: calc(100% - 40px);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .cont{
+            padding: 30px 20px 20px 50px;
+
+            h6{
+                font-weight: 600;
+                font-size: 16px;
+                letter-spacing: 1px;
+                margin-bottom: 5px;
+            }
+
+            span{
+                font-size: 13px;
+            }
+        }
+
+        &:after{
+            content: '';
+            position: absolute;
+            top: 30px;
+            left: 30px;
+            right: 0;
+            bottom: 0;
+            border-radius: 10px;
+            box-shadow: 20px 20px 50px 0px rgba(45,22,84,.08);
+            background: #fafafa;
+            z-index: -1;
+        }
+
+        &.no-shad{
+            
+            &:after{
+                box-shadow: none;
+            }
+        }
+
+        &.one{
+
+            &:after{
+                background: #fff0ef;
+            }
+        }
+
+        &.two{
+
+            &:after{
+                background: #efffff;
+            }
+        }
+
+        &.three{
+
+            &:after{
+                background: #fffdef;
+            }
+        }
+
+        &.four{
+
+            &:after{
+                background: #efffef;
+            }
+        }
+    }
+}
+
+.team-clas{
+
+    .img{
+        position: relative;
+        overflow: hidden;
+
+        &:hover{
+
+            .social{
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .social{
+            position: absolute;
+            bottom: 30px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all .4s;
+
+            a{
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                border-radius: 50%;
+                background: #fff;
+                font-size: 13px;
+                transition: all .4s;
+
+                &:hover{
+                    background: #181b31;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
+
+/* ====================== [ End Team ] ====================== */

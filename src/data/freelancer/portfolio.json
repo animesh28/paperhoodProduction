@@ -1,0 +1,23 @@
+[
+  {
+    "class": "bx-one",
+    "number": "01.",
+    "title": "Creative web design",
+    "details": ["Morbi iaculis convallis arcu,", "nec maximus tellus sodales in."],
+    "image": "freelancer/img/works/4.png"
+  },
+  {
+    "class": "bx-two",
+    "number": "02.",
+    "title": "Mobile ui / ux Deisgn",
+    "details": ["Business , Creative , Design"],
+    "image": "freelancer/img/works/5.png"
+  },
+  {
+    "class": "bx-three",
+    "number": "03.",
+    "title": "Creative web design",
+    "details": ["Business , Creative , Design"],
+    "image": "freelancer/img/works/2.png"
+  }
+]

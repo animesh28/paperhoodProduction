@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-phone",
+    "title": "Perfect Responsive",
+    "details": "Our Template is full Perfect for all device. You can visit our template all device easily."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-bell",
+    "title": "Weekly New Demos",
+    "details": "Buy now and get a new 2 demo every week with free lifetime updates."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-headphones",
+    "title": "Fast & Friendly Support",
+    "details": "We are provide 24 hours support for all clients.You can purchase without hesitation."
+  }
+]

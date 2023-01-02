@@ -1,0 +1,20 @@
+[
+  {
+    "bg": "arch/img/slid/4.jpg",
+    "number": "01",
+    "title": ["explore", "the future"],
+    "desc": "We developed strong relationships with contractors and specialist companies offering discounted prices."
+  },
+  {
+    "bg": "arch/img/slid/5.jpg",
+    "number": "02",
+    "title": ["Dustin", "Villa, Spain"],
+    "desc": "We developed strong relationships with contractors and specialist companies offering discounted prices."
+  },
+  {
+    "bg": "arch/img/slid/6.jpg",
+    "number": "03",
+    "title": ["minimalest architectures"],
+    "desc": "We developed strong relationships with contractors and specialist companies offering discounted prices."
+  }
+]

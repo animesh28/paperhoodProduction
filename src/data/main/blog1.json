@@ -1,0 +1,23 @@
+[
+  {
+    "image": "img/blog/c1.jpg",
+    "tag": "Trending",
+    "author": "Mila Kunis",
+    "date": "14 sep 2021",
+    "title": "Ways to quickly increase traffic to your website."
+  },
+  {
+    "image": "img/blog/c2.jpg",
+    "tag": "Trending",
+    "author": "Mila Kunis",
+    "date": "14 sep 2021",
+    "title": "Breaking the rules: using sqlite to demo web."
+  },
+  {
+    "image": "img/blog/c3.jpg",
+    "tag": "Trending",
+    "author": "Mila Kunis",
+    "date": "14 sep 2021",
+    "title": "Building better ui designs with layout grids."
+  }
+]

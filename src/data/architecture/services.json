@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "arch/img/icons/icon-1.png",
+    "title": "Architecture",
+    "description": {
+      "text1": "Urban design draws together the many",
+      "text2": "strands of place-making, environmental stewardship, social"
+    }
+  },
+  {
+    "icon": "arch/img/icons/icon-2.png",
+    "title": "Interior Design",
+    "description": {
+      "text1": "Urban design draws together the many",
+      "text2": "strands of place-making, environmental stewardship, social"
+    }
+  },
+  {
+    "icon": "arch/img/icons/icon-3.png",
+    "title": "Decorations",
+    "description": {
+      "text1": "Urban design draws together the many",
+      "text2": "strands of place-making, environmental stewardship, social"
+    }
+  }
+]

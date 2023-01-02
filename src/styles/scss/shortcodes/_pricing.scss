@@ -1,0 +1,134 @@
+
+
+/* ====================== [ Start Pricing ] ====================== */
+
+.price{
+
+    .item{
+        padding: 40px;
+        border: 1px solid rgba(6, 14, 98, 0.05);
+
+        &.active{
+            background: #fff;
+            box-shadow: 0 25px 70px rgba(0, 0, 0 , .04);
+            border: 0;
+            transform: scale(1.02);
+        }
+
+        .type{
+
+            h6{
+                width: 100%;
+                text-align: center;
+            }
+        }
+
+        .amount{
+            padding-bottom: 40px;
+            border-bottom: 1px solid rgba(6, 14, 98, 0.05);
+            position: relative;
+            display: flex;
+
+            h3{
+                font-size: 50px;
+
+                span{
+                    font-size: 20px;
+                }
+            }
+
+            .icon{
+                margin-left: auto;
+            }
+        }
+
+        .offer{
+            padding: 40px 0;
+            border-bottom: 1px solid rgba(6, 14, 98, 0.05);
+
+            .text{
+                margin-bottom: 30px;
+
+                p{
+                    font-size: 14px;
+                }
+            }
+
+            ul{
+
+                li{
+                    margin-bottom: 20px;
+
+                    &:last-of-type{
+                        margin-bottom: 0;
+                    }
+
+                    .icon{
+                        opacity: .7;
+                        margin-right: 15px;
+                        font-size: 22px;
+                    }
+                }
+            }
+        }
+
+        .order{
+            padding-top: 40px;
+        }
+    }
+}
+
+.pricing-shad{
+
+    .item{
+        background: #fff;
+        padding: 40px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0 , .1);
+        text-align: center;
+
+        .amount{
+            margin-bottom: 50px;
+            padding-bottom: 50px;
+            border-bottom: 1px solid #eee;
+
+            .type{
+                font-weight: 500;
+            }
+
+            h3{
+                font-size: 50px;
+                margin-top: 15px;
+
+                span,
+                em{
+                    font-size: 18px;
+                    font-weight: 400;
+                    margin: 0 5px;
+                }
+            }
+        }
+
+        .offer{
+            padding-bottom: 30px;
+            border-bottom: 1px solid #eee;
+
+            ul{
+                text-align: left;
+
+                li{
+                    margin: 30px auto;
+                    
+                    .icon{
+                        margin-right: 10px;
+                    }
+                }
+            }
+        }
+
+        .order{
+            margin-top: 50px;
+        }
+    }
+}
+
+/* ====================== [ End Pricing ] ====================== */

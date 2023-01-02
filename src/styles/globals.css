@@ -1,0 +1,29 @@
+.__next {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.swiper-container {
+  min-height: 15vh;
+}
+
+.gallery-top .swiper-wrapper {
+  text-align: center;
+}
+
+.work-carsouel.crv .work-crsol.swiper {
+  overflow: unset;
+}
+
+.skill-progress span {
+  display: none !important;
+}
+
+.modal-video {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+}
+
+.react-slidedown {
+  overflow: hidden;
+  transition-duration: 0.4s !important;
+}

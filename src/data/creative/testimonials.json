@@ -1,0 +1,21 @@
+{
+  "images": [
+    "img/testimonials/b1.jpg",
+    "img/testimonials/b2.jpg",
+    "img/testimonials/b3.jpg"
+  ],
+  "testimonials": [
+    {
+      "comment": "I dont know what else to say. This is something you haven’t seen before. Unique design, high performance and outstanding support!",
+      "author": "Tom Cruise"
+    },
+    {
+      "comment": "I dont know what else to say. This is something you haven’t seen before. Unique design, high performance and outstanding support!",
+      "author": "Tom Cruise"
+    },
+    {
+      "comment": "I dont know what else to say. This is something you haven’t seen before. Unique design, high performance and outstanding support!",
+      "author": "Tom Cruise"
+    }
+  ]
+}

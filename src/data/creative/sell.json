@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "pe-7s-add-user",
+    "title": "Register",
+    "details": "Create an account and Register as Seller"
+  },
+  {
+    "icon": "pe-7s-news-paper",
+    "title": "Profile Details",
+    "details": "Add Contact Info & Bank Account Details"
+  },
+  {
+    "icon": "pe-7s-safe",
+    "title": "Dashboard",
+    "details": "Get Access to Dashboard"
+  },
+  {
+    "icon": "pe-7s-notebook",
+    "title": "List your Book(s)",
+    "details": "Sell your Book(s) on Dashboard under given option(s)"
+  }
+]

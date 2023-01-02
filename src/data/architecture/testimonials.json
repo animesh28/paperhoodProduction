@@ -1,0 +1,30 @@
+{
+  "slides": [
+    {
+      "image": "img/testimonials/01.jpg",
+      "text": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": "Tom Hardy",
+      "position": "Twitter Seo"
+    },
+    {
+      "image": "img/testimonials/01.jpg",
+      "text": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": "Tom Hardy",
+      "position": "Twitter Seo"
+    },
+    {
+      "image": "img/testimonials/01.jpg",
+      "text": "All startup groups should get a consultation from your marketers prior to opening a business lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+      "author": "Tom Hardy",
+      "position": "Twitter Seo"
+    }
+  ],
+  "clients": [
+    "arch/img/brands/1.png",
+    "arch/img/brands/2.png",
+    "arch/img/brands/3.png",
+    "arch/img/brands/4.png",
+    "arch/img/brands/2.png",
+    "arch/img/brands/3.png"
+  ]
+}

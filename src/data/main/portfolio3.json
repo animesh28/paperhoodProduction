@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "img/works/3d/1.jpg",
+    "type": "Branding",
+    "title": "Daimler Financial"
+  },
+  {
+    "id": 2,
+    "image": "img/works/3d/13.jpg",
+    "type": "Marketing",
+    "title": "Skoda Corporate"
+  },
+  {
+    "id": 3,
+    "image": "img/works/3d/14.jpg",
+    "type": "ui / ux design",
+    "title": "Jeremy Dupont"
+  },
+  {
+    "id": 4,
+    "image": "img/works/3d/12.jpg",
+    "type": "Web Design",
+    "title": "Potato Oslands"
+  },
+  {
+    "id": 5,
+    "image": "img/works/3d/2.jpg",
+    "type": "Portfolio",
+    "title": "Biolator Series"
+  }
+]

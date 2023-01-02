@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2020",
+    "icon": "fab fa-amazon",
+    "title": "Product Designer",
+    "at": "Amazon Inc"
+  },
+  {
+    "date": "2018",
+    "icon": "fab fa-microsoft",
+    "title": "Ui/Ux Designer",
+    "at": "Microsoft"
+  },
+  {
+    "date": "2016",
+    "icon": "fab fa-google",
+    "title": "Web Frontend Designer",
+    "at": "Google Inc"
+  },
+  {
+    "date": "2014",
+    "icon": "fab fa-facebook-f",
+    "title": "Ui Designer",
+    "at": "Facbook"
+  }
+]

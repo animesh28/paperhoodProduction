@@ -1,0 +1,17 @@
+[
+  {
+    "picture": "img/team/t1.jpg",
+    "name": "Jack nicholson",
+    "position": "Seo Manager"
+  },
+  {
+    "picture": "img/team/t2.jpg",
+    "name": "Dwayne Johnson",
+    "position": "Ui Designer"
+  },
+  {
+    "picture": "img/team/t3.jpg",
+    "name": "Ryan Reynolds",
+    "position": "Web Developer"
+  }
+]

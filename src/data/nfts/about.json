@@ -1,0 +1,28 @@
+{
+  "status": [
+    {
+      "title": "Trading Volume",
+      "number": "$173",
+      "operator": "M"
+    },
+    {
+      "title": "NFTs Created",
+      "number": "538",
+      "operator": "K+"
+    },
+    {
+      "title": "Total Users",
+      "number": "23",
+      "operator": "K+"
+    }
+  ],
+  "users": {
+    "images": [
+      "nft/img/authors/1.jpg",
+      "nft/img/authors/2.jpg",
+      "nft/img/authors/3.jpg"
+    ],
+    "number": "40k+",
+    "text": "Digital art creators joined us to sale their own NFT to our marketplace."
+  }
+}

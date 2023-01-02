@@ -1,0 +1,57 @@
+[
+  {
+    "plan_name": "Basic Plan",
+    "plan_price": "9.99",
+    "plan_features": [
+      {
+        "title": "Marketing strategy",
+        "available": true
+      },
+      {
+        "title": "Competitive analysis",
+        "available": true
+      },
+      {
+        "title": "Monthly management",
+        "available": true
+      }
+    ]
+  },
+  {
+    "plan_name": "Enterprise",
+    "plan_price": "29.99",
+    "active": true,
+    "plan_features": [
+      {
+        "title": "Marketing strategy",
+        "available": true
+      },
+      {
+        "title": "Competitive analysis",
+        "available": true
+      },
+      {
+        "title": "Monthly management",
+        "available": true
+      }
+    ]
+  },
+  {
+    "plan_name": "Professional",
+    "plan_price": "69.99",
+    "plan_features": [
+      {
+        "title": "Marketing strategy",
+        "available": true
+      },
+      {
+        "title": "Competitive analysis",
+        "available": true
+      },
+      {
+        "title": "Monthly management",
+        "available": true
+      }
+    ]
+  }
+]

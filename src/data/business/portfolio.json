@@ -1,0 +1,52 @@
+{
+  "filters": [
+    {
+      "name": "All",
+      "operator": "*"
+    },
+    {
+      "name": "Branding",
+      "operator": ".brand"
+    },
+    {
+      "name": "Mobile App",
+      "operator": ".web"
+    },
+    {
+      "name": "Creative",
+      "operator": ".graphic"
+    }
+  ],
+  "images": [
+    {
+      "url": "img/works/b/2.jpg",
+      "type": "WordPress",
+      "title": "Through The Breaking",
+      "filter": "web"
+    },
+    {
+      "url": "img/works/b/1.jpg",
+      "type": "WordPress",
+      "title": "Creativity Demand",
+      "filter": "graphic"
+    },
+    {
+      "url": "img/works/b/3.jpg",
+      "type": "WordPress",
+      "title": "Create With Creatives",
+      "filter": "brand"
+    },
+    {
+      "url": "img/works/b/4.jpg",
+      "type": "WordPress",
+      "title": "Energies of Love",
+      "filter": "graphic"
+    },
+    {
+      "url": "img/works/b/5.jpg",
+      "type": "WordPress",
+      "title": "See It Yourself",
+      "filter": "web"
+    }
+  ]
+}

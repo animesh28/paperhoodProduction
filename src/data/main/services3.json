@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "pe-7s-mouse",
+    "title": "Digital Marketing",
+    "solidColor": "#dbffeb",
+    "color": "green",
+    "details": "No coding skills required to customize and create unique looks."
+  },
+  {
+    "icon": "pe-7s-airplay",
+    "title": "Business Strategy",
+    "solidColor": "#ffdbdb",
+    "color": "red",
+    "details": "No coding skills required to customize and create unique looks."
+  },
+  {
+    "icon": "pe-7s-news-paper",
+    "title": "Marketing Strategy",
+    "solidColor": "#dbdeff",
+    "color": "blue",
+    "details": "No coding skills required to customize and create unique looks."
+  }
+]

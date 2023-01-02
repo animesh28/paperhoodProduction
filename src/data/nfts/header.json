@@ -1,0 +1,20 @@
+{
+  "st1": [
+    "nft/img/header/1.jpg",
+    "nft/img/header/2.jpg",
+    "nft/img/header/3.jpg",
+    "nft/img/header/4.jpg"
+  ],
+  "st2": [
+    "nft/img/header/4.jpg",
+    "nft/img/header/5.jpg",
+    "nft/img/header/6.jpg",
+    "nft/img/header/7.jpg"
+  ],
+  "st3": [
+    "nft/img/header/8.jpg",
+    "nft/img/header/9.jpg",
+    "nft/img/header/10.jpg",
+    "nft/img/header/11.jpg"
+  ]
+}

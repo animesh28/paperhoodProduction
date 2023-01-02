@@ -1,0 +1,174 @@
+{
+  "tabs": [
+    {
+      "id": 1,
+      "title": "Meat"
+    },
+    {
+      "id": 2,
+      "title": "Starters"
+    },
+    {
+      "id": 3,
+      "title": "Nonveg"
+    },
+    {
+      "id": 4,
+      "title": "Dessert"
+    }
+  ],
+  "contents": [
+    {
+      "id": 1,
+      "closed": false,
+      "list1": [
+        {
+          "title": "Fried eggs with vegetables",
+          "price": 15,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Raw Chicken Burger Patty",
+          "price": 19,
+          "details": "Eggs with spinach with homemade bread"
+        },
+        {
+          "title": "Popcorn Shrimp",
+          "price": 10,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        }
+      ],
+      "list2": [
+        {
+          "title": "Marinated Rahu Fish",
+          "price": 7,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Chicken Vegetable Samosa",
+          "price": 22,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        },
+        {
+          "title": "Premium Crispy Fillet",
+          "price": 17,
+          "details": "Eggs with spinach with homemade bread"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "closed": true,
+      "list1": [
+        {
+          "title": "Fried eggs with vegetables",
+          "price": 15,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Raw Chicken Burger Patty",
+          "price": 19,
+          "details": "Eggs with spinach with homemade bread"
+        },
+        {
+          "title": "Popcorn Shrimp",
+          "price": 10,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        }
+      ],
+      "list2": [
+        {
+          "title": "Marinated Rahu Fish",
+          "price": 7,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Chicken Vegetable Samosa",
+          "price": 22,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        },
+        {
+          "title": "Premium Crispy Fillet",
+          "price": 17,
+          "details": "Eggs with spinach with homemade bread"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "closed": true,
+      "list1": [
+        {
+          "title": "Fried eggs with vegetables",
+          "price": 15,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Raw Chicken Burger Patty",
+          "price": 19,
+          "details": "Eggs with spinach with homemade bread"
+        },
+        {
+          "title": "Popcorn Shrimp",
+          "price": 10,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        }
+      ],
+      "list2": [
+        {
+          "title": "Marinated Rahu Fish",
+          "price": 7,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Chicken Vegetable Samosa",
+          "price": 22,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        },
+        {
+          "title": "Premium Crispy Fillet",
+          "price": 17,
+          "details": "Eggs with spinach with homemade bread"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "closed": true,
+      "list1": [
+        {
+          "title": "Fried eggs with vegetables",
+          "price": 15,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Raw Chicken Burger Patty",
+          "price": 19,
+          "details": "Eggs with spinach with homemade bread"
+        },
+        {
+          "title": "Popcorn Shrimp",
+          "price": 10,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        }
+      ],
+      "list2": [
+        {
+          "title": "Marinated Rahu Fish",
+          "price": 7,
+          "details": "Eggs with spinach and mushrooms with bread"
+        },
+        {
+          "title": "Chicken Vegetable Samosa",
+          "price": 22,
+          "details": "Eggs with spinach and mushrooms with homemade bread"
+        },
+        {
+          "title": "Premium Crispy Fillet",
+          "price": 17,
+          "details": "Eggs with spinach with homemade bread"
+        }
+      ]
+    }
+  ]
+}

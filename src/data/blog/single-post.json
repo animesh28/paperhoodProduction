@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "Apple’s leaked 15-inch MacBook Air might not be an Air after all.",
+    "author": "Chris Smith",
+    "author_image": "img/blog/b/author.jpg",
+    "author_brief": "Nulla eleifend, lectus eu gravida facilisis, ipsum metus faucibus eros, vitae vulputate nibh libero ac metus.",
+    "tags": "Tech , Marketing",
+    "date": "March 25th, 2022"
+  },
+  "recent_blogs": [
+    {
+      "id": 1,
+      "image": "img/blog/b/b2.jpg",
+      "tag": "Trending",
+      "author": "Mila Kunis",
+      "date": "14 sep 2021",
+      "title": "breaking the rules: using sqlite to demo web"
+    },
+    {
+      "id": 2,
+      "image": "img/blog/b/b3.jpg",
+      "tag": "Trending",
+      "author": "Mila Kunis",
+      "date": "14 sep 2021",
+      "title": "building better ui designs with layout grids"
+    },
+    {
+      "id": 3,
+      "image": "img/blog/b/b4.jpg",
+      "tag": "Trending",
+      "author": "Mila Kunis",
+      "date": "14 sep 2021",
+      "title": "ways to quickly increase traffic to your website"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Business",
+      "posts": "33"
+    },
+    {
+      "name": "Lifestyle",
+      "posts": "05"
+    },
+    {
+      "name": "Creative",
+      "posts": "28"
+    },
+    {
+      "name": "WordPress",
+      "posts": "17"
+    },
+    {
+      "name": "Design",
+      "posts": "45"
+    }
+  ],
+  "latest_posts": [
+    {
+      "image": "img/blog/1.jpg",
+      "title": "ways to quickly increase traffic to your website",
+      "date": "14 sep 2021"
+    },
+    {
+      "image": "img/blog/2.jpg",
+      "title": "breaking the rules: using sqlite to demo web",
+      "date": "14 sep 2021"
+    },
+    {
+      "image": "img/blog/3.jpg",
+      "title": "building better ui designs with layout grids",
+      "date": "14 sep 2021"
+    }
+  ],
+  "tags": [
+    "Creative",
+    "Design",
+    "Dark & Light",
+    "Minimal",
+    "Ravo"
+  ],
+  "gallery": [
+    "img/insta/1.jpg",
+    "img/insta/2.jpg",
+    "img/insta/3.jpg",
+    "img/insta/4.jpg",
+    "img/insta/5.jpg",
+    "img/insta/6.jpg"
+  ],
+  "comments": [
+    {
+      "author": {
+        "name": "Megan fox",
+        "image": "img/blog/b/author.jpg"
+      },
+      "date": "14 sept 2021, 07:00 AM",
+      "content": "Ut elementum turpis lorem, id vulputate risus consequat vitae. Morbi eget urna imperdiet, pellentesque nulla id, tempus mauris.",
+      "replies": [
+        {
+          "author": {
+            "name": "Megan fox",
+            "image": "img/blog/b/author.jpg"
+          },
+          "date": "14 sept 2021, 07:00 AM",
+          "content": "Ut elementum turpis lorem, id vulputate risus consequat vitae. Morbi eget urna imperdiet, pellentesque nulla id, tempus mauris.",
+          "replies": [
+            {
+              "author": {
+                "name": "Megan fox",
+                "image": "img/blog/b/author.jpg"
+              },
+              "date": "14 sept 2021, 07:00 AM",
+              "content": "Ut elementum turpis lorem, id vulputate risus consequat vitae. Morbi eget urna imperdiet, pellentesque nulla id, tempus mauris."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

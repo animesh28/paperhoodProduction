@@ -1,0 +1,42 @@
+[
+  {
+    "image": "nft/img/nfts-img/a1.jpg",
+    "author": {
+      "image": "nft/img/authors/1.jpg",
+      "name": "Mark Wahlberg"
+    },
+    "items": 22
+  },
+  {
+    "image": "nft/img/nfts-img/a2.jpg",
+    "author": {
+      "image": "nft/img/authors/2.jpg",
+      "name": "Mark Wahlberg"
+    },
+    "items": 22
+  },
+  {
+    "image": "nft/img/nfts-img/a3.jpg",
+    "author": {
+      "image": "nft/img/authors/3.jpg",
+      "name": "Mark Wahlberg"
+    },
+    "items": 22
+  },
+  {
+    "image": "nft/img/nfts-img/a4.jpg",
+    "author": {
+      "image": "nft/img/authors/1.jpg",
+      "name": "Mark Wahlberg"
+    },
+    "items": 22
+  },
+  {
+    "image": "nft/img/nfts-img/a5.jpg",
+    "author": {
+      "image": "nft/img/authors/2.jpg",
+      "name": "Mark Wahlberg"
+    },
+    "items": 22
+  }
+]

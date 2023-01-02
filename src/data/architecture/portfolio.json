@@ -1,0 +1,27 @@
+[
+  {
+    "image": "arch/img/works/1.jpg",
+    "title": "Ontario Skyscrapers",
+    "type": "Interior Design"
+  },
+  {
+    "image": "arch/img/works/2.jpg",
+    "title": "Sydney Music Hall",
+    "type": "Construction"
+  },
+  {
+    "image": "arch/img/works/3.jpg",
+    "title": "Tokyo Business Centre",
+    "type": "Residential"
+  },
+  {
+    "image": "arch/img/works/4.jpg",
+    "title": "Singapore Hotels",
+    "type": "architecture"
+  },
+  {
+    "image": "arch/img/works/5.jpg",
+    "title": "Tokyo Business Centre",
+    "type": "City planning"
+  }
+]

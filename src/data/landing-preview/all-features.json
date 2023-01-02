@@ -1,0 +1,54 @@
+[
+  {
+    "icon": "pe-7s-umbrella",
+    "title": "Animation"
+  },
+  {
+    "icon": "pe-7s-users",
+    "title": "Team Member"
+  },
+  {
+    "icon": "pe-7s-speaker",
+    "title": "Testimonials"
+  },
+  {
+    "icon": "pe-7s-search",
+    "title": "Search Input"
+  },
+  {
+    "icon": "pe-7s-play",
+    "title": "Video Popup"
+  },
+  {
+    "icon": "pe-7s-bell",
+    "title": "Pricing Tables"
+  },
+  {
+    "icon": "pe-7s-coffee",
+    "title": "Countdown"
+  },
+  {
+    "icon": "pe-7s-headphones",
+    "title": "Custom Support"
+  },
+  {
+    "icon": "pe-7s-switch",
+    "title": "Light & Dark"
+  },
+  {
+    "icon": "pe-7s-map-marker",
+    "title": "Google Maps"
+  },
+  {
+    "icon": "pe-7s-menu",
+    "title": "Mega Menu"
+  },
+  {
+    "icon": "pe-7s-mouse",
+    "title": "Easy Customisation"
+  },
+  {
+    "icon": "pe-7s-paint-bucket",
+    "title": "Gradient Colors"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "image": "img/testimonials/1.jpg",
+    "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+    "name": "Tom Hardy",
+    "position": "Twitter Seo"
+  },
+  {
+    "image": "img/testimonials/1.jpg",
+    "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. amet consectetur adipiscing do eiusmod tempor incididunt ut labore.",
+    "name": "Tom Jones",
+    "position": "Twitter Seo"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "plan_name": "Basic Plan",
+    "plan_price": "9.99",
+    "plan_description": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "plan_features": [
+      {
+        "title": "Marketing strategy",
+        "available": true
+      },
+      {
+        "title": "Competitive analysis",
+        "available": true
+      },
+      {
+        "title": "Monthly management",
+        "available": false
+      },
+      {
+        "title": "Hosted In The Cloud",
+        "available": false
+      }
+    ]
+  },
+  {
+    "plan_name": "Enterprise",
+    "plan_price": "29.99",
+    "plan_description": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "plan_features": [
+      {
+        "title": "Marketing strategy",
+        "available": true
+      },
+      {
+        "title": "Competitive analysis",
+        "available": true
+      },
+      {
+        "title": "Monthly management",
+        "available": true
+      },
+      {
+        "title": "Hosted In The Cloud",
+        "available": true
+      }
+    ]
+  }
+]

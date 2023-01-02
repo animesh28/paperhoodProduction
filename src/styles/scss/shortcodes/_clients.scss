@@ -1,0 +1,113 @@
+
+/* ====================== [ Start brands ] ====================== */
+
+.clients-carsouel{
+
+	.item{
+		text-align: center;
+
+		&:hover{
+
+			img{
+				transform: scale(0);
+				opacity: 0;
+			}
+
+			.link{
+				opacity: 1 !important;
+				transition: all 0;
+			}
+
+			.char {
+				animation: fadeInUp .3s cubic-bezier(.3, 0, .7, 1) both;
+				animation-delay: calc(20ms * var(--char-index));
+			}
+
+			.front{
+				transform: scale(1);
+				opacity: 1;
+
+				img{
+					transform: scale(1) !important;
+					opacity: 1 !important;
+				}
+			}
+		}
+
+		.img{
+			position: relative;
+			margin: 0 15px;
+			
+			img{
+				transition: all .4s;
+				max-width: 140px;
+				margin: auto;
+			}
+
+			.link{
+				font-size: 15px;
+				width: max-content;
+				position: absolute;
+				top: 0;
+				left: 50%;
+				transform: translateX(-50%);
+				opacity: 0;
+				transition: all .3s;
+			}
+		}
+
+		.front{
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			transform: scale(1.5);
+			opacity: 0;
+			transition: all .4s;
+
+			img{
+				transition: none;
+			}
+		}
+	}
+
+	&.shad{
+
+		.img{
+			margin: 0 10px;
+			
+			img{
+				max-width: 110px;
+			}
+		}
+
+		h2{
+			white-space: nowrap;
+			font-size: 55px;
+			line-height: 1;
+
+			span{
+				position: relative;
+				top: -5px;
+				left: -5px;
+				font-size: 20px;
+				font-weight: 400;
+			}
+		}
+		
+		.container{
+			background: #fff;
+			padding: 50px 30px;
+			box-shadow: 0px 50px 150px 0px #f1f1f1;
+		}
+
+		&.up{
+			position: relative;
+			top: -60px;
+			z-index: 5;
+		}
+	}
+}
+
+/* ====================== [ End brands ] ====================== */

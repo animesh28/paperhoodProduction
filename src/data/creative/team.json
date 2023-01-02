@@ -1,0 +1,22 @@
+[
+  {
+    "picture": "img/team/01.jpg",
+    "name": "Mark Wahlberg",
+    "position": "Web Developer"
+  },
+  {
+    "picture": "img/team/02.jpg",
+    "name": "Matt Damon",
+    "position": "Web Developer"
+  },
+  {
+    "picture": "img/team/03.jpg",
+    "name": "Jack Nicholson",
+    "position": "Web Developer"
+  },
+  {
+    "picture": "img/team/04.jpg",
+    "name": "Alec Baldwin",
+    "position": "Web Developer"
+  }
+]

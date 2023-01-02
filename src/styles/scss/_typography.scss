@@ -1,0 +1,118 @@
+
+/* ====================== [ Start Typography  ] ====================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+}
+
+html {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    color: #181b31;
+    line-height: 1.5;
+    font-weight: 400;
+    overflow-x: hidden !important;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.main-content{
+    background: #fff;
+    position: relative;
+    z-index: 9;
+}
+
+.row>*{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+   font-size: 55px;
+}
+
+h2 {
+   font-size: 40px;
+}
+
+h3 {
+   font-size: 35px;
+}
+
+h4 {
+   font-size: 30px;
+}
+
+h5 {
+   font-size: 25px;
+}
+
+h6 {
+   font-size: 18px;
+}
+
+h1, h2, h3, h4 {
+    margin: 0;
+    line-height: 1.6;
+    font-weight: 700;
+}
+
+h5, h6{
+    margin: 0;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+p {
+    color: $pcolor;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+    margin: 0;
+}
+
+[data-overlay-dark] p,
+.bg-dark p,
+.bg-color p
+{color: #d6d7da}
+
+a, a:hover {
+    color: inherit;
+}
+
+span{
+    display: inline-block;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    
+    &:hover{
+       text-decoration: none;
+    }
+}
+
+figure{
+    margin: 0;
+}
+
+.font-numb{
+    font-family: 'Akronim', cursive;
+}
+
+/* ====================== [ End Typography  ] ====================== */
